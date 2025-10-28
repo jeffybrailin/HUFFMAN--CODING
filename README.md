@@ -1,3 +1,6 @@
+## Name: Jeffy Brailin T
+## Reg.No: 212223040076
+
 # Huffman-Coding
 ## Aim
 To implement Huffman coding to compress the data using Python.
